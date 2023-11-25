@@ -1,2 +1,2 @@
 # Employee_Attendance_Monitoring
-To monitor how many employees are available daily.
+To monitor available employees using Yolo, OpenCV and Python
